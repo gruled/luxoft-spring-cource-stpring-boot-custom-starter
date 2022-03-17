@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Luxoft-spring-cource-stpring-boot-custom-starter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Luxoft_spring_cource_stpring_boot_custom_starter_jar</output-path>
+    <root id="archive" name="Luxoft-spring-cource-stpring-boot-custom-starter.jar">
+      <element id="module-output" name="Luxoft-spring-cource-stpring-boot-custom-starter" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.3.16/spring-jcl-5.3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.3.16/spring-beans-5.3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-configuration-processor/2.6.4/spring-boot-configuration-processor-2.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.3.16/spring-context-5.3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.3.16/spring-aop-5.3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.6.4/spring-boot-autoconfigure-2.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.3.16/spring-expression-5.3.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.6.4/spring-boot-2.6.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.3.16/spring-core-5.3.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
